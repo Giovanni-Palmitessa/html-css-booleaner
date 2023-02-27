@@ -66,3 +66,24 @@ th{
     margin-top: 25px;
     font-size: 20px;
 }
+
+.link{
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.scrivania{
+    margin-top: 20px;
+    width: 220px;
+    height: 220px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+.lorem{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
