@@ -76,7 +76,7 @@ th{
 
 .scrivania{
     margin-top: 20px;
-    width: 220px;
+    width: 300px;
     height: 220px;
     background-image: url(../img/monitor.jpg);
     background-size: cover;
@@ -86,4 +86,14 @@ th{
     color: white;
     font-size: 20px;
     font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.grafico{
+    width: 300px;
+    height: 220px;
+    margin-top: 10px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
 }
