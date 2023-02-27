@@ -28,3 +28,41 @@ height: 120px;
     color: grey;
     font-size: 13px;
 }
+
+p{
+    margin: 0;
+    font-size: 11px;
+}
+
+.main-text{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.importante{
+    background-color: yellow;
+}
+
+
+thead{
+    background-color: cornflowerblue;
+}
+
+th{
+    width: 600px;
+    color: white;
+}
+
+#riga{
+    background-color: rgb(137, 217, 244);
+    font-size: medium;
+}
+
+#riga2{
+    font-size: medium;
+}
+
+.conclusioni{
+    margin-top: 25px;
+    font-size: 20px;
+}
